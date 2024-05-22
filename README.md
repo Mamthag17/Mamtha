@@ -27,3 +27,6 @@ sudo apt update sudo apt-get install gtkwave
 
 
 ![Screenshot from 2024-02-27 13-11-15](https://github.com/Mamthag17/task1.md/assets/161347200/ed39d1a5-63f7-456c-9041-59965833a1cd)
+
+
+
