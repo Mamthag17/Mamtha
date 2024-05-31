@@ -1,4 +1,4 @@
-A 4-week Research Internship on RISC-V using VSDSquadron Mini internship RISC-V Dev Board BOARD SPECS:
+A 4-week Research Internship on RISC-V using VSDSquadron Mini RISC-V Dev Board BOARD SPECS:
 
 CH32V003F4U6 chip with 32-bit RISC-V core based on RV32EC instruction set
 
